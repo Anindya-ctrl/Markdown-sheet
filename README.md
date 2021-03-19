@@ -35,7 +35,7 @@ ___
 
 <!-- BLOCKQUOTE -->
 
-> This is a blockquote!
+> This is a quote!
 
 <!-- LINK -->
 
